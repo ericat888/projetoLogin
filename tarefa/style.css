@@ -1,0 +1,11 @@
+/* RESET CSS */
+* {
+    background-color: #FCE5BC;
+}
+/* FIM RESET CSS */
+
+.titulo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    text-decoration: underline;
+}
